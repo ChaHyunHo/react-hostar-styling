@@ -13,10 +13,10 @@ File Watchers > add > sass 추가
 <img width="682" alt="스크린샷 2021-05-23 오후 3 35 05" src="https://user-images.githubusercontent.com/38008152/119250671-a4fa5300-bbdc-11eb-91fa-a29f0a23dea2.png">
 program에서 node-sass모듈을 찾아서 셋팅해준다.
 
-#### sass m1 셋팅(정정 m1안되는줄 알았는데 갑자기됨, 다른방법이 있다. 정도로 정리)
+#### sass m1 셋팅
 ~~~
-node-sass를 현재 지원하지 않는다. 
-sass dart로 다운로드
+현재 node-sass 6.0.0 버전은 다운은 되나 환경셋팅상 버전 에러가남 그래서 4버전이나 5버전을 셋팅해야되는데 m1은 지원안하는듯
+ sass dart로 다운로드
 yarn add sass -D 
 dart sass 다운로드 이후로는 별다른 셋팅없이 
 scss확장자 파일 생성 후 사용하면됨 
