@@ -11,7 +11,7 @@ File Watchers > add > sass 추가
 
 #### sass 설정 (이미지 참조)
 <img width="682" alt="스크린샷 2021-05-23 오후 3 35 05" src="https://user-images.githubusercontent.com/38008152/119250671-a4fa5300-bbdc-11eb-91fa-a29f0a23dea2.png">
-
+program에서 node-sass모듈을 찾아서 셋팅해준다.
 
 #### sass m1 셋팅
 ~~~
